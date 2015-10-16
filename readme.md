@@ -18,7 +18,8 @@ Repository for the third week of Fall 2015 Spark iOS curriculum and assignments
 
 ### Section 2: Creating your app
 
-#### Required - Complete the required tasks outlined in the _homework.md_ file
+#### Required - Complete the required tasks outlined in the _homework.md_ file.
 
 #### App Resources
 - [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214)
+- [Debugging with Xcode](https://developer.apple.com/library/ios/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/about_debugging_w_xcode.html#//apple_ref/doc/uid/TP40015022)
