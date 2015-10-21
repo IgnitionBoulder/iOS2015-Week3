@@ -10,5 +10,9 @@ import Foundation
 
 struct ListItem {
     let name: String
-    var quantity: Int
+    var quantity: Double
+    init(name: String, quantity: Double) {
+        self.name = name
+        self.quantity = quantity
+    }
 }
